@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Minidraw20">
+    <file>image/Bezier.bmp</file>
+    <file>image/Ellipse.bmp</file>
+    <file>image/Freehand.bmp</file>
+    <file>image/Line.bmp</file>
+    <file>image/Polygon.bmp</file>
+    <file>image/Rectangle.bmp</file>
+    <file>image/Undo.bmp</file>
+  </qresource>
+</RCC>
